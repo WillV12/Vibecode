@@ -20,7 +20,7 @@ What did you do versus what AI helped with
 - What’s one thing you’re proud of?
     - I really like the way the physics feel. I find it quite fun to play and mess around with. Definetly makes me want to do this game properly in the future
     
-What’s one thing you’d improve with more time?
+- What’s one thing you’d improve with more time?
     - Pretty much everything. I would like to go back on my own and do this for real. Make better terrain generation that doesn't need flat spots to be added.
       The terrain should be more cohesive and the landing spots smaller. Also, I would improve the scoring, make certain aspects such as speed and tricks actually work 
       correctly and are a viable strategy to score points. Multipliers for landing at certain spots is in the original game, and something I totally forgot about until I got
