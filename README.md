@@ -12,7 +12,7 @@
     - I used ChatGpt for this assignment. Specifically, it was used to make certain aspects of the game I knew I would be too slow to do.
       Things such as making the graphics, collision detection for those sprites, and some overhauls I wanted to do when I was running out of time
       
-What did you do versus what AI helped with
+- What did you do versus what AI helped with
    - I mainly did the terrain generation and the tuning that followed. I also did the controls for the lander, along with the countdown at the beginning.
      The final thing I worked on, but didn't really get to finish was the scoring. It works okay, but some of the scoring is unbalanced and doesn't work.
    - AI was used to draw the graphics, detect collsions, styling, and was used to quickly add the asteroid objects that fall out of the sky to hinder the player
